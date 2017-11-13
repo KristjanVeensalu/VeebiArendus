@@ -1,3 +1,4 @@
 # VeebiArendus
 
-leht leitav: https://ninelivesnosoul.veeb.eu/
+leht leitav: https://janrossliiver.me
+
